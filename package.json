@@ -1,0 +1,13 @@
+{
+  "name": "ChickAI",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "openai": "^3.2.1",
+    "dotenv": "^16.0.3"
+  }
+}
