@@ -1,2 +1,16 @@
-node_modules
+# Ignore node_modules directory
+node_modules/
+
+# Ignore.env file
 .env
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore Discord token file
+token.json
+
+# Ignore any other sensitive files
+*.json
+*.key
+*.secret
